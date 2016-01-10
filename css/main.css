@@ -11,14 +11,14 @@
       background-image: url("C:\Users\Generic\Documents\GitHub\TeenHelp\img");
       background-color: skyblue ;
 }
-   
+  h1 {
+    color: whitesmoke;
+} 
 h2 {
     color: whitesmoke;
 }
 
-h1 {
-    color: whitesmoke;
-}
+
 nav ul il a {
     color:#000000;
     margin-left: 10px;
