@@ -5,11 +5,11 @@
    ========================================================================== */
   body { 
       background-image: url("C:\Users\Generic\Documents\GitHub\TeenHelp\img");
-      background-color: blue ;
+      background-color: skyblue ;
 }
    
 h2 {
-    color: deepskyblue;
+    color: darkblue;
 }
 
 nav ul il a {
@@ -18,7 +18,11 @@ nav ul il a {
     font-size: 12px;
     font-weight: 100;
 }
-
+header {
+    width: 100x;
+    height: 500px;
+    background-image: url(../img/peace);
+}
 
 
 
