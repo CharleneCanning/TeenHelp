@@ -2,7 +2,8 @@
 {
     background: url(../img/peace.jpg);
     text-align: center;
-    color: white
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px darkblue;
 }
 
 /* ==========================================================================
