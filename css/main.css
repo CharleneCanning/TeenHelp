@@ -3,13 +3,21 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-{ 
-    background: url(../img/peace.jpg);
+  body { 
+      background-image: url("C:\Users\Generic\Documents\GitHub\TeenHelp\img");
+      background-color: blue ;
+}
+   
 h2 {
     color: deepskyblue;
 }
 
-
+nav ul il a {
+    color:#000000;
+    margin-left: 10px;
+    font-size: 12px;
+    font-weight: 100;
+}
 
 
 
